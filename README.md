@@ -1,4 +1,4 @@
-goc
-===
+# goc - Command to open Go package documentations in a web browser
 
-Command which opens Go package documentation in a web browser.
+goc is a command to open Go package documentations in a web browser.
+
